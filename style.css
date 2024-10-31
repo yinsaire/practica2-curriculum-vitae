@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #15b0c0;
+}
+
+.header_data {
+    width: 50%;
+    text-align: right;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 4px;
+    color: #fff;
+}
+
+.header img {
+    width: 100px;
+}
+
+.header_img {
+    width: 50%;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #f0f0f0;
+}
+
+.side {
+    width: 50%;
+    text-align: justify;
+    padding: 20px;
+}
+
+.data_title {
+      color: #ff5f17;
+      font-size: 26px;
+}
